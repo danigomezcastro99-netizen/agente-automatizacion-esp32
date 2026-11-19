@@ -1,0 +1,7 @@
+# Ignorar credenciales privadas de Wi-Fi y API Key
+credenciales.h
+
+# Archivos temporales de compilación de Arduino
+build/
+*.bin
+*.elf
